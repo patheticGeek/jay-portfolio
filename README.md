@@ -24,4 +24,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Welcome Screen
 
-![welcome](assets/welcome-screen.gif)
+![welcome](assets/readme/welcome-screen.gif)
+## Skills
+![welcome](assets/readme/skills-screen.png)

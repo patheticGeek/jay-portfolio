@@ -2,6 +2,8 @@
 
 .custom-bg {
   background: url('../assets/Group196.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .curvy {
