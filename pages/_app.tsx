@@ -11,9 +11,9 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Next App Boilerplate</title>
-        <meta name="description" content="Next App Boilerplate" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>Jay Suthar</title>
+        <meta name="description" content="Jay Suthar" />
+        <link rel="icon" href="/logo.svg" />
       </Head>
 
       <Component {...pageProps} />
