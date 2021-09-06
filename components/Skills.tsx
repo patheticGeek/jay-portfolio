@@ -34,7 +34,7 @@ const data: skillCardProps[] = [
 
 const SkillsComponent = () => {
   return (
-    <div className="w-screen h-screen flex flex-col justify-center items-center custom-bg">
+    <div className="h-screen flex flex-col justify-center items-center custom-bg">
       <div className="w-9/12   mt-20 relative text-center">
         <div className="text-4xl capitalize">skills</div>
       </div>
@@ -51,7 +51,7 @@ const SkillsComponent = () => {
           ))}
       </div>
 
-      <div className="w-screen h-14 flex justify-center">
+      <div className="h-14 flex justify-center">
         <Image className="animate-bounce" src={ScrollMore} />
       </div>
     </div>
