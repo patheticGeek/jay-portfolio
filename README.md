@@ -21,3 +21,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 3. Twind configured
 
 4. Husky commit hooks
+
+## Welcome Screen
+
+![welcome](assets/readme/welcome-screen.gif)
+## Skills
+![welcome](assets/readme/skills-screen.png)
